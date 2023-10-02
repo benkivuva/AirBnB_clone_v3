@@ -171,6 +171,3 @@ No known bugs at this time.
 ## License
 
 Public Domain. No copyright protection.
-```
-
-This version provides clear sections, proper formatting, and an organized structure for your README file.
