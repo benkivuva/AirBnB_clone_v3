@@ -166,9 +166,7 @@ No known bugs at this time.
 ## Authors
 
 - Mohammad Hassieb - [Github](https://github.com/hassiebb)
-- Ben Kivuva - [Github
-
-](https://github.com/benkivuva)
+- Ben Kivuva - [Github](https://github.com/benkivuva)
 
 ## License
 
